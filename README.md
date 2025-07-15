@@ -1,1 +1,1 @@
-These two files use the Socrata (python file) or RSocrata (R file) packages to access NYC Open Data and import "New York City Seasonally Adjusted Employment".  Intended as "simplest working examples" of how to acess NYC Open Data with an API.
+These two files use the Socrata (python file) and the RSocrata (R file) packages to access NYC Open Data and import "New York City Seasonally Adjusted Employment".  Intended as "simplest working examples" of how to acess NYC Open Data with an API.
