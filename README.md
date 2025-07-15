@@ -1,1 +1,1 @@
-Two files, One for python and one for R that imports employee data from NYC Open data.  Intended as a "simplest working example".
+Two files. One for python and one for R.  These files use the Socrata(RSocrata packages to access NYC Open Data and import "New York City Seasonally Adjusted Employment".  Intended as a "simplest working example".
